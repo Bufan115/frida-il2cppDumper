@@ -2,9 +2,9 @@ export var UnityVer = {
     V_2017_4_31f1: "2017.4.31f1",
     V_2018_4_36f1: "2018.4.36f1",
 };
-export const soName = "libil2cpp.so";
+export const soName = "libunity.so";
 
-export  const pkg_name="com.xx.xx";
+export  const pkg_name="com.red2.Redmoon2";
 
 export const UNITY_VER = UnityVer.V_2018_4_36f1;
 
